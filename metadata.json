@@ -1,0 +1,7 @@
+{
+  "name": "BharatScan - Universal Shopping Barcode Scanner",
+  "description": "A high-fidelity Indian supermarket barcode scanner app that allows users to scan products, manage a cart, and make mock payments seamlessly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
